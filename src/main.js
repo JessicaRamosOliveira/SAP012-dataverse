@@ -45,9 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 const mostrarTodos = document.querySelector('[data-testid="button-clear"]');
-const statsContainer = document.querySelector(
-  "#calcularNivelMedioDeDificuldade"
-);
+const statsContainer = document.querySelector("#calcularNivelMedioDeDificuldade");
 const statsContainer2 = document.querySelector("#custoParaIniciar");
 const selOrdem = document.querySelector("#ordenacao");
 const selCategoria = document.querySelector("#filtro");
