@@ -9,7 +9,7 @@ export default [
       "imageUrl": "https://github.com/hortenciahs/SAP012-dataverse/blob/T004/src/data/Imagens%20IA/croche.jpeg?raw=true",
       "facts": {
         
-        "custoParaIniciar": 50.00, // BRL
+        "custoParaIniciar": 150.00, // BRL
         "nivelDeDificuldade": 2, // 1: fácil, 2: mediano, 3: difícil
         "categoriaHobby": "artesanato",
         "materialNecessario": "Fios, agulha de crochê, tesoura, etc.",      
